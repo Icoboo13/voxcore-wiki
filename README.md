@@ -28,7 +28,7 @@ Welcome to **VoxCore**, a modern and fully customizable chat system for Minecraf
 ## 🔗 Links
 
 - Modrinth: https://modrinth.com/
-- Support: (your discord)
+- Support: https://discord.gg/Yh3yvnQQ75
 
 ---
 
