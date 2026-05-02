@@ -13,7 +13,7 @@ channels:
   global:
     enabled: true
   staff:
-    permission: "voxcore.staff"
+    permission: "chatcore.staff"
 Tips
 Use & for colors
 Permissions control access to features
@@ -45,5 +45,5 @@ You can fully customize chat format:
 
 Control access to channels:
 
-- `voxcore.chat.global`
-- `voxcore.chat.staff`
+- `chatcore.chat.global`
+- `chatcore.chat.staff`
